@@ -253,21 +253,20 @@
 
   window.litaLive = { loadFeed: loadFeed };
 
-  if (!document.querySelector('script[data-lita-defer]')) {
-    // pages without the player still get the ajax shim (hearts)
-    if (window.jQuery) installAjaxShim(); else document.addEventListener('DOMContentLoaded', installAjaxShim);
-    return;
-  }
-
+  // The deferred plugin tag comes after this script in the page, so decide once the page is parsed.
   var ready = new Promise(function (res) {
     if (document.readyState !== 'loading') res(); else document.addEventListener('DOMContentLoaded', res);
   });
-  var timeout = new Promise(function (res) { setTimeout(res, 4000); }); // never block the player for long
-  Promise.race([
-    Promise.all([loadFeed().then(function (e) { episodes = e; }).catch(function (err) { console.warn('LITA feed:', err); }), ready]),
-    timeout
-  ]).then(function () { return ready; }).then(function () {
-    try { refreshPlayers(); } catch (e) { console.warn('LITA refresh:', e); }
-    startPlugin();
+  ready.then(function () {
+    if (!document.querySelector('script[data-lita-defer]')) {
+      installAjaxShim(); // pages without the player still need the likes handler
+      return;
+    }
+    var feed = loadFeed().then(function (e) { episodes = e; }).catch(function (err) { console.warn('LITA feed:', err); });
+    var timeout = new Promise(function (res) { setTimeout(res, 6000); }); // never block the player for long
+    Promise.race([feed, timeout]).then(function () {
+      try { refreshPlayers(); } catch (e) { console.warn('LITA refresh:', e); }
+      startPlugin();
+    });
   });
 })();
