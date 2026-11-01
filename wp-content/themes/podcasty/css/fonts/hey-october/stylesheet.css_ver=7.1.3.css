@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Hey October';
+    src: url('HeyOctober.woff2') format('woff2'),
+        url('HeyOctober.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+

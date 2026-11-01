@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://www.loveistheauthor.com/wp-content/plugins/seriously-simple-podcasting/templates/feed-stylesheet.xsl?v=2"?><rss version="2.0"
+	 xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	 xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	 xmlns:dc="http://purl.org/dc/elements/1.1/"
+	 xmlns:atom="http://www.w3.org/2005/Atom"
+	 xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	 xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	 xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	 xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+	 xmlns:podcast="https://podcastindex.org/namespace/1.0"
+	 xmlns:ssp="https://castos.com/seriously-simple-podcasting/namespace/1.0"
+	>
+		<channel>
+		<title>Love Is The Author </title>
+		<atom:link href="https://www.loveistheauthor.com/feed/podcast/love-is-the-author/" rel="self" type="application/rss+xml"/>
+		<link>https://www.loveistheauthor.com/podcasts/love-is-the-author/</link>
+		<description>Gonzo Spiritual Journalism. </description>
+		<lastBuildDate>Thu, 31 Oct 2024 15:49:01 +0000</lastBuildDate>
+		<language>en</language>
+		<copyright>Jaymee Carpenter</copyright>
+		<itunes:subtitle>Gonzo Spiritual Journalism.</itunes:subtitle>
+		<itunes:author>Jaymee Carpenter</itunes:author>
+		<itunes:type>episodic</itunes:type>
+		<itunes:summary>Gonzo Spiritual Journalism. </itunes:summary>
+		<itunes:owner>
+			<itunes:name>Jaymee Carpenter</itunes:name>
+			<itunes:email>podcasts60+2053fb2c@anchor.fm</itunes:email>
+		</itunes:owner>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:image href="https://www.loveistheauthor.com/wp-content/uploads/2024/08/5323747-1698535062567-820376e5305d1-20-scaled.jpg"></itunes:image>
+			<image>
+				<url>https://www.loveistheauthor.com/wp-content/uploads/2024/08/5323747-1698535062567-820376e5305d1-20-scaled.jpg</url>
+				<title>Love Is The Author </title>
+				<link>https://www.loveistheauthor.com/podcasts/love-is-the-author/</link>
+			</image>
+		<itunes:category text="Religion &amp; Spirituality">
+			<itunes:category text="Spirituality"></itunes:category>
+		</itunes:category>
+		<googleplay:author><![CDATA[Jaymee Carpenter]]></googleplay:author>
+			<googleplay:email>podcasts60+2053fb2c@anchor.fm</googleplay:email>			<googleplay:description>Gonzo Spiritual Journalism. </googleplay:description>
+			<googleplay:explicit>No</googleplay:explicit>
+			<googleplay:image href="https://www.loveistheauthor.com/wp-content/uploads/2024/08/5323747-1698535062567-820376e5305d1-20-scaled.jpg"></googleplay:image>
+			<podcast:locked owner="podcasts60+2053fb2c@anchor.fm">yes</podcast:locked>
+		<podcast:guid>97343f86-8896-57c5-9d8c-5e44e2c0c4ba</podcast:guid>
+		
+		<!-- podcast_generator="SSP by Castos/3.17.1" Seriously Simple Podcasting plugin for WordPress (https://wordpress.org/plugins/seriously-simple-podcasting/) -->
+		<generator>https://wordpress.org/?v=7.1.3</generator>
+
+<item>
+	<title>EULOGY: mixtape for creation/ego death practice</title>
+	<link>https://www.loveistheauthor.com/podcast/eulogy-mixtape-for-creation-ego-death-practice/</link>
+	<pubDate>Wed, 14 Aug 2024 07:50:49 +0000</pubDate>
+	<dc:creator><![CDATA[Jaymee Carpenter]]></dc:creator>
+	<guid isPermaLink="false">https://lita.1000buddhas.co/podcast/eulogy-mixtape-for-creation-ego-death-practice/</guid>
+	<description><![CDATA[Created in the spirit of J Dilla&#39;s Donuts album, EULOGY is a unique sound collage of home recorded prayers, ceremonies, notes and dreams of Jaymee&#39;s from the past decade, a mixtape for the act of creation or the practice of death. Featuring the wisdom of Alice and John Coltrane, Hunter S. Thompson, Jerry Garcia, Patti Smith, Pharaoh Sanders, Bob Dylan, Harmony Korine, Jim Morrison, Nick... <p class="more"> <a class="more-link" href="https://www.loveistheauthor.com/podcast/eulogy-mixtape-for-creation-ego-death-practice/">Read More</a> </p>]]></description>
+	<itunes:subtitle><![CDATA[Created in the spirit of J Dilla&#39;s Donuts album, EULOGY is a unique sound collage of home recorded prayers, ceremonies, notes and dreams of Jaymee&#39;s from the past decade, a mixtape for the act of creation or the practice of death. Featuring the w]]></itunes:subtitle>
+	<content:encoded><![CDATA[Created in the spirit of J Dilla&#39;s Donuts album, EULOGY is a unique sound collage of home recorded prayers, ceremonies, notes and dreams of Jaymee&#39;s from the past decade, a mixtape for the act of creation or the practice of death. Featuring the wisdom of Alice and John Coltrane, Hunter S. Thompson, Jerry Garcia, Patti Smith, Pharaoh Sanders, Bob Dylan, Harmony Korine, Jim Morrison, Nick... <p class="more"> <a class="more-link" href="https://www.loveistheauthor.com/podcast/eulogy-mixtape-for-creation-ego-death-practice/">Read More</a> </p>]]></content:encoded>
+	<enclosure url="https://anchor.fm/s/2053fb2c/podcast/play/90418865/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-7-14%2F4291cd96-d7ee-c6dd-76e0-64ecc3918c4a.mp3" length="92246020" type="audio/mpeg"></enclosure>
+	<itunes:summary><![CDATA[Created in the spirit of J Dilla&#39;s Donuts album, EULOGY is a unique sound collage of home recorded prayers, ceremonies, notes and dreams of Jaymee&#39;s from the past decade, a mixtape for the act of creation or the practice of death. Featuring the wisdom of Alice and John Coltrane, Hunter S. Thompson, Jerry Garcia, Patti Smith, Pharaoh Sanders, Bob Dylan, Harmony Korine, Jim Morrison, Nick...  Read More]]></itunes:summary>
+	<itunes:image href="https://www.loveistheauthor.com/wp-content/uploads/2024/08/5323747-1698535062567-820376e5305d1-2-scaled.jpg"></itunes:image>
+	<ssp:image>
+		<ssp:url>https://www.loveistheauthor.com/wp-content/uploads/2024/08/5323747-1698535062567-820376e5305d1-2-scaled.jpg</ssp:url>
+		<ssp:title>EULOGY: mixtape for creation/ego death practice</ssp:title>
+	</ssp:image>
+	<itunes:explicit>false</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>0:00</itunes:duration>
+	<itunes:author><![CDATA[Jaymee Carpenter]]></itunes:author>	<googleplay:description><![CDATA[Created in the spirit of J Dilla&#39;s Donuts album, EULOGY is a unique sound collage of home recorded prayers, ceremonies, notes and dreams of Jaymee&#39;s from the past decade, a mixtape for the act of creation or the practice of death. Featuring the wisdom of Alice and John Coltrane, Hunter S. Thompson, Jerry Garcia, Patti Smith, Pharaoh Sanders, Bob Dylan, Harmony Korine, Jim Morrison, Nick...  Read More]]></googleplay:description>
+	<googleplay:image href="https://www.loveistheauthor.com/wp-content/uploads/2024/08/5323747-1698535062567-820376e5305d1-2-scaled.jpg"></googleplay:image>
+	<googleplay:explicit>No</googleplay:explicit>
+	<googleplay:block>no</googleplay:block>
+</item>
+
+<item>
+	<title>ALTAR OF LITA (GREATEST HITS)</title>
+	<link>https://www.loveistheauthor.com/podcast/altar-of-lita-greatest-hits/</link>
+	<pubDate>Sat, 10 Aug 2024 03:31:31 +0000</pubDate>
+	<dc:creator><![CDATA[Jaymee Carpenter]]></dc:creator>
+	<guid isPermaLink="false">https://lita.1000buddhas.co/podcast/altar-of-lita-greatest-hits/</guid>
+	<description><![CDATA[Behold! the ALTAR OF LITA: a unique audio pop-up book experience of music and memorable conversations throughout the shows history, curated and assmebled by Jaymee over a two-day period alone in the high desert with no distractions. Featuring: Juliette Lewis, Krishna Das, Jim James, Pete Holmes, Devendra Banhart, Sam Bercholz, Kim Krans, Sarah Hyland, Bob Roth, Nick Mulvey, YAWN &#38; LOKO, Clive Langer, Lama Lhanang... <p class="more"> <a class="more-link" href="https://www.loveistheauthor.com/podcast/altar-of-lita-greatest-hits/">Read More</a> </p>]]></description>
+	<itunes:subtitle><![CDATA[Behold! the ALTAR OF LITA: a unique audio pop-up book experience of music and memorable conversations throughout the shows history, curated and assmebled by Jaymee over a two-day period alone in the high desert with no distractions. Featuring: Juliette L]]></itunes:subtitle>
+	<content:encoded><![CDATA[Behold! the ALTAR OF LITA: a unique audio pop-up book experience of music and memorable conversations throughout the shows history, curated and assmebled by Jaymee over a two-day period alone in the high desert with no distractions. Featuring: Juliette Lewis, Krishna Das, Jim James, Pete Holmes, Devendra Banhart, Sam Bercholz, Kim Krans, Sarah Hyland, Bob Roth, Nick Mulvey, YAWN &#38; LOKO, Clive Langer, Lama Lhanang... <p class="more"> <a class="more-link" href="https://www.loveistheauthor.com/podcast/altar-of-lita-greatest-hits/">Read More</a> </p>]]></content:encoded>
+	<enclosure url="https://anchor.fm/s/2053fb2c/podcast/play/90265366/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-7-10%2F917ced33-dfc1-8cb0-6226-6834f9eae69a.mp3" length="1" type="audio/mpeg"></enclosure>
+	<itunes:summary><![CDATA[Behold! the ALTAR OF LITA: a unique audio pop-up book experience of music and memorable conversations throughout the shows history, curated and assmebled by Jaymee over a two-day period alone in the high desert with no distractions. Featuring: Juliette Lewis, Krishna Das, Jim James, Pete Holmes, Devendra Banhart, Sam Bercholz, Kim Krans, Sarah Hyland, Bob Roth, Nick Mulvey, YAWN &#38; LOKO, Clive Langer, Lama Lhanang...  Read More]]></itunes:summary>
+	<itunes:image href="https://www.loveistheauthor.com/wp-content/uploads/2024/08/5323747-1698535062567-820376e5305d1-3-scaled.jpg"></itunes:image>
+	<ssp:image>
+		<ssp:url>https://www.loveistheauthor.com/wp-content/uploads/2024/08/5323747-1698535062567-820376e5305d1-3-scaled.jpg</ssp:url>
+		<ssp:title>ALTAR OF LITA (GREATEST HITS)</ssp:title>
+	</ssp:image>
+	<itunes:explicit>false</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>0:00</itunes:duration>
+	<itunes:author><![CDATA[Jaymee Carpenter]]></itunes:author>	<googleplay:description><![CDATA[Behold! the ALTAR OF LITA: a unique audio pop-up book experience of music and memorable conversations throughout the shows history, curated and assmebled by Jaymee over a two-day period alone in the high desert with no distractions. Featuring: Juliette Lewis, Krishna Das, Jim James, Pete Holmes, Devendra Banhart, Sam Bercholz, Kim Krans, Sarah Hyland, Bob Roth, Nick Mulvey, YAWN &#38; LOKO, Clive Langer, Lama Lhanang...  Read More]]></googleplay:description>
+	<googleplay:image href="https://www.loveistheauthor.com/wp-content/uploads/2024/08/5323747-1698535062567-820376e5305d1-3-scaled.jpg"></googleplay:image>
+	<googleplay:explicit>No</googleplay:explicit>
+	<googleplay:block>no</googleplay:block>
+</item>
+
+<item>
+	<title>Episode 72 &#8211; Barry Taylor</title>
+	<link>https://www.loveistheauthor.com/podcast/episode-72-barry-taylor/</link>
+	<pubDate>Mon, 05 Aug 2024 05:46:11 +0000</pubDate>
+	<dc:creator><![CDATA[Jaymee Carpenter]]></dc:creator>
+	<guid isPermaLink="false">https://lita.1000buddhas.co/podcast/episode-72-barry-taylor/</guid>
+	<description><![CDATA[Barry Taylor is a former priest with a PhD in theology and pop culture, who was once a touring sound technician for legendary soul artists Marvin Gaye, Gladys Knight, and The Stylistics. But it was hilariously working on the Highway To Hell tour in 1979 with AC/DC that Barry converted to Christianity, ushering in a new immersive phase of his life. HIs book Sex, God,... <p class="more"> <a class="more-link" href="https://www.loveistheauthor.com/podcast/episode-72-barry-taylor/">Read More</a> </p>]]></description>
+	<itunes:subtitle><![CDATA[Barry Taylor is a former priest with a PhD in theology and pop culture, who was once a touring sound technician for legendary soul artists Marvin Gaye, Gladys Knight, and The Stylistics. But it was hilariously working on the Highway To Hell tour in 1979 ]]></itunes:subtitle>
+	<content:encoded><![CDATA[Barry Taylor is a former priest with a PhD in theology and pop culture, who was once a touring sound technician for legendary soul artists Marvin Gaye, Gladys Knight, and The Stylistics. But it was hilariously working on the Highway To Hell tour in 1979 with AC/DC that Barry converted to Christianity, ushering in a new immersive phase of his life. HIs book Sex, God,... <p class="more"> <a class="more-link" href="https://www.loveistheauthor.com/podcast/episode-72-barry-taylor/">Read More</a> </p>]]></content:encoded>
+	<enclosure url="https://anchor.fm/s/2053fb2c/podcast/play/90060000/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-7-5%2F0d58cf60-b48c-7f00-058d-9dbfc88bdc43.mp3" length="1" type="audio/mpeg"></enclosure>
+	<itunes:summary><![CDATA[Barry Taylor is a former priest with a PhD in theology and pop culture, who was once a touring sound technician for legendary soul artists Marvin Gaye, Gladys Knight, and The Stylistics. But it was hilariously working on the Highway To Hell tour in 1979 with AC/DC that Barry converted to Christianity, ushering in a new immersive phase of his life. HIs book Sex, God,...  Read More]]></itunes:summary>
+	<itunes:image href="https://www.loveistheauthor.com/wp-content/uploads/2024/08/5323747-1698535062567-820376e5305d1-4-scaled.jpg"></itunes:image>
+	<ssp:image>
+		<ssp:url>https://www.loveistheauthor.com/wp-content/uploads/2024/08/5323747-1698535062567-820376e5305d1-4-scaled.jpg</ssp:url>
+		<ssp:title>Episode 72 &#8211; Barry Taylor</ssp:title>
+	</ssp:image>
+	<itunes:explicit>false</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>0:00</itunes:duration>
+	<itunes:author><![CDATA[Jaymee Carpenter]]></itunes:author>	<googleplay:description><![CDATA[Barry Taylor is a former priest with a PhD in theology and pop culture, who was once a touring sound technician for legendary soul artists Marvin Gaye, Gladys Knight, and The Stylistics. But it was hilariously working on the Highway To Hell tour in 1979 with AC/DC that Barry converted to Christianity, ushering in a new immersive phase of his life. HIs book Sex, God,...  Read More]]></googleplay:description>
+	<googleplay:image href="https://www.loveistheauthor.com/wp-content/uploads/2024/08/5323747-1698535062567-820376e5305d1-4-scaled.jpg"></googleplay:image>
+	<googleplay:explicit>No</googleplay:explicit>
+	<googleplay:block>no</googleplay:block>
+</item>
+
+<item>
+	<title>Episode 71 &#8211; The Death Of YAWN + LOKO</title>
+	<link>https://www.loveistheauthor.com/podcast/episode-71-the-death-of-yawn-loko/</link>
+	<pubDate>Thu, 01 Aug 2024 05:51:05 +0000</pubDate>
+	<dc:creator><![CDATA[Jaymee Carpenter]]></dc:creator>
+	<guid isPermaLink="false">https://lita.1000buddhas.co/podcast/episode-71-the-death-of-yawn-loko/</guid>
+	<description><![CDATA[Jaymee and Lacee, who have lovingly referred to themselves as &#34;YAWN + LOKO&#34; in partnership on this podcast, invite you into their most sacrificial spiritual act yet&#8230; the death of their romantic relationship! &#34;Trauma is a great involuntary spiritual schoolhouse&#34; &#8211; LOKO &#34;You can&#39;t sit shiva for your ego dying.&#34; &#8211; YAWN LOVE IS THE AUTHOR PODCAST: hosted, produced, engineered and edited by Jaymee Carpenter. INSTAGRAM: @loveistheauthor... <p class="more"> <a class="more-link" href="https://www.loveistheauthor.com/podcast/episode-71-the-death-of-yawn-loko/">Read More</a> </p>]]></description>
+	<itunes:subtitle><![CDATA[Jaymee and Lacee, who have lovingly referred to themselves as &#34;YAWN + LOKO&#34; in partnership on this podcast, invite you into their most sacrificial spiritual act yet&#8230; the death of their romantic relationship! &#34;Trauma is a great involunta]]></itunes:subtitle>
+	<content:encoded><![CDATA[Jaymee and Lacee, who have lovingly referred to themselves as &#34;YAWN + LOKO&#34; in partnership on this podcast, invite you into their most sacrificial spiritual act yet&#8230; the death of their romantic relationship! &#34;Trauma is a great involuntary spiritual schoolhouse&#34; &#8211; LOKO &#34;You can&#39;t sit shiva for your ego dying.&#34; &#8211; YAWN LOVE IS THE AUTHOR PODCAST: hosted, produced, engineered and edited by Jaymee Carpenter. INSTAGRAM: @loveistheauthor... <p class="more"> <a class="more-link" href="https://www.loveistheauthor.com/podcast/episode-71-the-death-of-yawn-loko/">Read More</a> </p>]]></content:encoded>
+	<enclosure url="https://anchor.fm/s/2053fb2c/podcast/play/89920699/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-7-1%2F223e3f20-915d-b32d-75b5-ff0fe64ed310.mp3" length="1" type="audio/mpeg"></enclosure>
+	<itunes:summary><![CDATA[Jaymee and Lacee, who have lovingly referred to themselves as &#34;YAWN + LOKO&#34; in partnership on this podcast, invite you into their most sacrificial spiritual act yet&#8230; the death of their romantic relationship! &#34;Trauma is a great involuntary spiritual schoolhouse&#34; &#8211; LOKO &#34;You can&#39;t sit shiva for your ego dying.&#34; &#8211; YAWN LOVE IS THE AUTHOR PODCAST: hosted, produced, engineered and edited by Jaymee Carpenter. INSTAGRAM: @loveistheauthor...  Read More]]></itunes:summary>
+	<itunes:image href="https://www.loveistheauthor.com/wp-content/uploads/2024/08/5323747-1698535062567-820376e5305d1-5-scaled.jpg"></itunes:image>
+	<ssp:image>
+		<ssp:url>https://www.loveistheauthor.com/wp-content/uploads/2024/08/5323747-1698535062567-820376e5305d1-5-scaled.jpg</ssp:url>
+		<ssp:title>Episode 71 &#8211; The Death Of YAWN + LOKO</ssp:title>
+	</ssp:image>
+	<itunes:explicit>false</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>0:00</itunes:duration>
+	<itunes:author><![CDATA[Jaymee Carpenter]]></itunes:author>	<googleplay:description><![CDATA[Jaymee and Lacee, who have lovingly referred to themselves as &#34;YAWN + LOKO&#34; in partnership on this podcast, invite you into their most sacrificial spiritual act yet&#8230; the death of their romantic relationship! &#34;Trauma is a great involuntary spiritual schoolhouse&#34; &#8211; LOKO &#34;You can&#39;t sit shiva for your ego dying.&#34; &#8211; YAWN LOVE IS THE AUTHOR PODCAST: hosted, produced, engineered and edited by Jaymee Carpenter. INSTAGRAM: @loveistheauthor...  Read More]]></googleplay:description>
+	<googleplay:image href="https://www.loveistheauthor.com/wp-content/uploads/2024/08/5323747-1698535062567-820376e5305d1-5-scaled.jpg"></googleplay:image>
+	<googleplay:explicit>No</googleplay:explicit>
+	<googleplay:block>no</googleplay:block>
+</item>
+
+<item>
+	<title>Episode 70 &#8211; &#8220;The Artistic Spirit&#8221; (Jaymee solo)</title>
+	<link>https://www.loveistheauthor.com/podcast/episode-70-the-artistic-spirit-jaymee-solo/</link>
+	<pubDate>Thu, 25 Jul 2024 04:15:26 +0000</pubDate>
+	<dc:creator><![CDATA[Jaymee Carpenter]]></dc:creator>
+	<guid isPermaLink="false">https://lita.1000buddhas.co/podcast/episode-70-the-artistic-spirit-jaymee-solo/</guid>
+	<description><![CDATA[Jaymee shares teachings on the artistic spirit, embracing the unknown, and how to develop genuine communication with your loves ones in this solo episode. LOVE IS THE AUTHOR PODCAST: produced, edited, engineered and hosted by Jaymee Carpenter.  BOOK SPIRITUAL MENTORSHIP SESSIONS w/ JAYMEE: lacee@loveistheauthor.com  INSTAGRAM: @loveistheauthor / @unconventionalgardener CONTACT: jaymee@loveistheauthor.com]]></description>
+	<itunes:subtitle><![CDATA[Jaymee shares teachings on the artistic spirit, embracing the unknown, and how to develop genuine communication with your loves ones in this solo episode. LOVE IS THE AUTHOR PODCAST: produced, edited, engineered and hosted by Jaymee Carpenter.  BOOK SPIR]]></itunes:subtitle>
+	<content:encoded><![CDATA[Jaymee shares teachings on the artistic spirit, embracing the unknown, and how to develop genuine communication with your loves ones in this solo episode. LOVE IS THE AUTHOR PODCAST: produced, edited, engineered and hosted by Jaymee Carpenter.  BOOK SPIRITUAL MENTORSHIP SESSIONS w/ JAYMEE: lacee@loveistheauthor.com  INSTAGRAM: @loveistheauthor / @unconventionalgardener CONTACT: jaymee@loveistheauthor.com]]></content:encoded>
+	<enclosure url="https://anchor.fm/s/2053fb2c/podcast/play/89641604/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-6-25%2Fe6dcb687-2ca1-280a-5fd5-84527ca6e44f.mp3" length="72415527" type="audio/mpeg"></enclosure>
+	<itunes:summary><![CDATA[Jaymee shares teachings on the artistic spirit, embracing the unknown, and how to develop genuine communication with your loves ones in this solo episode. LOVE IS THE AUTHOR PODCAST: produced, edited, engineered and hosted by Jaymee Carpenter.  BOOK SPIRITUAL MENTORSHIP SESSIONS w/ JAYMEE: lacee@loveistheauthor.com  INSTAGRAM: @loveistheauthor / @unconventionalgardener CONTACT: jaymee@loveistheauthor.com]]></itunes:summary>
+	<itunes:image href="https://www.loveistheauthor.com/wp-content/uploads/2024/08/5323747-1698535062567-820376e5305d1-6-scaled.jpg"></itunes:image>
+	<ssp:image>
+		<ssp:url>https://www.loveistheauthor.com/wp-content/uploads/2024/08/5323747-1698535062567-820376e5305d1-6-scaled.jpg</ssp:url>
+		<ssp:title>Episode 70 &#8211; &#8220;The Artistic Spirit&#8221; (Jaymee solo)</ssp:title>
+	</ssp:image>
+	<itunes:explicit>false</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>0:00</itunes:duration>
+	<itunes:author><![CDATA[Jaymee Carpenter]]></itunes:author>	<googleplay:description><![CDATA[Jaymee shares teachings on the artistic spirit, embracing the unknown, and how to develop genuine communication with your loves ones in this solo episode. LOVE IS THE AUTHOR PODCAST: produced, edited, engineered and hosted by Jaymee Carpenter.  BOOK SPIRITUAL MENTORSHIP SESSIONS w/ JAYMEE: lacee@loveistheauthor.com  INSTAGRAM: @loveistheauthor / @unconventionalgardener CONTACT: jaymee@loveistheauthor.com]]></googleplay:description>
+	<googleplay:image href="https://www.loveistheauthor.com/wp-content/uploads/2024/08/5323747-1698535062567-820376e5305d1-6-scaled.jpg"></googleplay:image>
+	<googleplay:explicit>No</googleplay:explicit>
+	<googleplay:block>no</googleplay:block>
+</item>
+
+<item>
+	<title>Episode 69 &#8211; Tulku Orgyen Rinpoche</title>
+	<link>https://www.loveistheauthor.com/podcast/episode-69-tulku-orgyen-rinpoche-2/</link>
+	<pubDate>Fri, 19 Jul 2024 03:48:17 +0000</pubDate>
+	<dc:creator><![CDATA[Jaymee Carpenter]]></dc:creator>
+	<guid isPermaLink="false">https://lita.1000buddhas.co/podcast/episode-69-tulku-orgyen-rinpoche-2/</guid>
+	<description><![CDATA[One of Jaymee&#39;s profound Tibetan Buddhist teachers Tulku Orgyen Rinpoche returns for his third and most potent interview with his student. Similar to witnessing the rare budding of a lotus flower, this conversation delicately unfolds a colorful assortment of easy to grasp Buddhist concepts, teachings and practices, including a guided mantra practice at the end of the episode. TULKU WEB: ⁠⁠⁠⁠⁠⁠⁠⁠⁠www.odiyanainstitute.org/tulku-orgyen-phuntsok⁠ LOVE IS THE AUTHOR PODCAST: produced,... <p class="more"> <a class="more-link" href="https://www.loveistheauthor.com/podcast/episode-69-tulku-orgyen-rinpoche-2/">Read More</a> </p>]]></description>
+	<itunes:subtitle><![CDATA[One of Jaymee&#39;s profound Tibetan Buddhist teachers Tulku Orgyen Rinpoche returns for his third and most potent interview with his student. Similar to witnessing the rare budding of a lotus flower, this conversation delicately unfolds a colorful assor]]></itunes:subtitle>
+	<content:encoded><![CDATA[One of Jaymee&#39;s profound Tibetan Buddhist teachers Tulku Orgyen Rinpoche returns for his third and most potent interview with his student. Similar to witnessing the rare budding of a lotus flower, this conversation delicately unfolds a colorful assortment of easy to grasp Buddhist concepts, teachings and practices, including a guided mantra practice at the end of the episode. TULKU WEB: ⁠⁠⁠⁠⁠⁠⁠⁠⁠www.odiyanainstitute.org/tulku-orgyen-phuntsok⁠ LOVE IS THE AUTHOR PODCAST: produced,... <p class="more"> <a class="more-link" href="https://www.loveistheauthor.com/podcast/episode-69-tulku-orgyen-rinpoche-2/">Read More</a> </p>]]></content:encoded>
+	<enclosure url="https://anchor.fm/s/2053fb2c/podcast/play/89401734/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-6-18%2Fb38d74cf-fa8b-19af-3c93-66769b2545fc.mp3" length="1" type="audio/mpeg"></enclosure>
+	<itunes:summary><![CDATA[One of Jaymee&#39;s profound Tibetan Buddhist teachers Tulku Orgyen Rinpoche returns for his third and most potent interview with his student. Similar to witnessing the rare budding of a lotus flower, this conversation delicately unfolds a colorful assortment of easy to grasp Buddhist concepts, teachings and practices, including a guided mantra practice at the end of the episode. TULKU WEB: ⁠⁠⁠⁠⁠⁠⁠⁠⁠www.odiyanainstitute.org/tulku-orgyen-phuntsok⁠ LOVE IS THE AUTHOR PODCAST: produced,...  Read More]]></itunes:summary>
+	<itunes:image href="https://www.loveistheauthor.com/wp-content/uploads/2024/08/5323747-1698535062567-820376e5305d1-26-scaled.jpg"></itunes:image>
+	<ssp:image>
+		<ssp:url>https://www.loveistheauthor.com/wp-content/uploads/2024/08/5323747-1698535062567-820376e5305d1-26-scaled.jpg</ssp:url>
+		<ssp:title>Episode 69 &#8211; Tulku Orgyen Rinpoche</ssp:title>
+	</ssp:image>
+	<itunes:explicit>false</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>0:00</itunes:duration>
+	<itunes:author><![CDATA[Jaymee Carpenter]]></itunes:author>	<googleplay:description><![CDATA[One of Jaymee&#39;s profound Tibetan Buddhist teachers Tulku Orgyen Rinpoche returns for his third and most potent interview with his student. Similar to witnessing the rare budding of a lotus flower, this conversation delicately unfolds a colorful assortment of easy to grasp Buddhist concepts, teachings and practices, including a guided mantra practice at the end of the episode. TULKU WEB: ⁠⁠⁠⁠⁠⁠⁠⁠⁠www.odiyanainstitute.org/tulku-orgyen-phuntsok⁠ LOVE IS THE AUTHOR PODCAST: produced,...  Read More]]></googleplay:description>
+	<googleplay:image href="https://www.loveistheauthor.com/wp-content/uploads/2024/08/5323747-1698535062567-820376e5305d1-26-scaled.jpg"></googleplay:image>
+	<googleplay:explicit>No</googleplay:explicit>
+	<googleplay:block>no</googleplay:block>
+</item>
+
+<item>
+	<title>Episode 68 &#8211; Cody Montgomery</title>
+	<link>https://www.loveistheauthor.com/podcast/episode-68-cody-montgomery-2/</link>
+	<pubDate>Fri, 12 Jul 2024 03:50:53 +0000</pubDate>
+	<dc:creator><![CDATA[Jaymee Carpenter]]></dc:creator>
+	<guid isPermaLink="false">https://lita.1000buddhas.co/podcast/episode-68-cody-montgomery-2/</guid>
+	<description><![CDATA[Cody Montgomery of Totally Blown Apparel and The David Lynch Foundation returns for a transparent discussion about the Transcendental Meditation movement, what it was like growing up in the Maharishi Mahesh Yogi&#39;s ashram, and the unbelievable real life Darleeling Limited adventure Cody and his brother went on that mysteriously led them to front row seats for the Maharishi&#39;s funeral pyre on the Ganges. TOTALLY BLOWN... <p class="more"> <a class="more-link" href="https://www.loveistheauthor.com/podcast/episode-68-cody-montgomery-2/">Read More</a> </p>]]></description>
+	<itunes:subtitle><![CDATA[Cody Montgomery of Totally Blown Apparel and The David Lynch Foundation returns for a transparent discussion about the Transcendental Meditation movement, what it was like growing up in the Maharishi Mahesh Yogi&#39;s ashram, and the unbelievable real li]]></itunes:subtitle>
+	<content:encoded><![CDATA[Cody Montgomery of Totally Blown Apparel and The David Lynch Foundation returns for a transparent discussion about the Transcendental Meditation movement, what it was like growing up in the Maharishi Mahesh Yogi&#39;s ashram, and the unbelievable real life Darleeling Limited adventure Cody and his brother went on that mysteriously led them to front row seats for the Maharishi&#39;s funeral pyre on the Ganges. TOTALLY BLOWN... <p class="more"> <a class="more-link" href="https://www.loveistheauthor.com/podcast/episode-68-cody-montgomery-2/">Read More</a> </p>]]></content:encoded>
+	<enclosure url="https://anchor.fm/s/2053fb2c/podcast/play/89125887/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-6-12%2F8b53224a-3f54-f18b-a238-d3fe5667a711.mp3" length="1" type="audio/mpeg"></enclosure>
+	<itunes:summary><![CDATA[Cody Montgomery of Totally Blown Apparel and The David Lynch Foundation returns for a transparent discussion about the Transcendental Meditation movement, what it was like growing up in the Maharishi Mahesh Yogi&#39;s ashram, and the unbelievable real life Darleeling Limited adventure Cody and his brother went on that mysteriously led them to front row seats for the Maharishi&#39;s funeral pyre on the Ganges. TOTALLY BLOWN...  Read More]]></itunes:summary>
+	<itunes:image href="https://www.loveistheauthor.com/wp-content/uploads/2024/08/5323747-1698535062567-820376e5305d1-27-scaled.jpg"></itunes:image>
+	<ssp:image>
+		<ssp:url>https://www.loveistheauthor.com/wp-content/uploads/2024/08/5323747-1698535062567-820376e5305d1-27-scaled.jpg</ssp:url>
+		<ssp:title>Episode 68 &#8211; Cody Montgomery</ssp:title>
+	</ssp:image>
+	<itunes:explicit>false</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>0:00</itunes:duration>
+	<itunes:author><![CDATA[Jaymee Carpenter]]></itunes:author>	<googleplay:description><![CDATA[Cody Montgomery of Totally Blown Apparel and The David Lynch Foundation returns for a transparent discussion about the Transcendental Meditation movement, what it was like growing up in the Maharishi Mahesh Yogi&#39;s ashram, and the unbelievable real life Darleeling Limited adventure Cody and his brother went on that mysteriously led them to front row seats for the Maharishi&#39;s funeral pyre on the Ganges. TOTALLY BLOWN...  Read More]]></googleplay:description>
+	<googleplay:image href="https://www.loveistheauthor.com/wp-content/uploads/2024/08/5323747-1698535062567-820376e5305d1-27-scaled.jpg"></googleplay:image>
+	<googleplay:explicit>No</googleplay:explicit>
+	<googleplay:block>no</googleplay:block>
+</item>
+
+<item>
+	<title>Episode 67 &#8211; Clive Langer</title>
+	<link>https://www.loveistheauthor.com/podcast/episode-67-clive-langer-2/</link>
+	<pubDate>Tue, 09 Jul 2024 05:30:59 +0000</pubDate>
+	<dc:creator><![CDATA[Jaymee Carpenter]]></dc:creator>
+	<guid isPermaLink="false">https://lita.1000buddhas.co/podcast/episode-67-clive-langer-2/</guid>
+	<description><![CDATA[Clive Langer is an English songwriter and producer, formerly of the cult band Deaf School, and half of the legendary UK production duo Langer/Winstanley, who over the past 4 decades produced iconic albums and hit singles for artists like Madness, Morrisey, Elvis Costello, Dexy&#39;s Midnight Runners, and Bush (to name only a few). Clive and Jaymee discuss the craft of music production, the origins of... <p class="more"> <a class="more-link" href="https://www.loveistheauthor.com/podcast/episode-67-clive-langer-2/">Read More</a> </p>]]></description>
+	<itunes:subtitle><![CDATA[Clive Langer is an English songwriter and producer, formerly of the cult band Deaf School, and half of the legendary UK production duo Langer/Winstanley, who over the past 4 decades produced iconic albums and hit singles for artists like Madness, Morrise]]></itunes:subtitle>
+	<content:encoded><![CDATA[Clive Langer is an English songwriter and producer, formerly of the cult band Deaf School, and half of the legendary UK production duo Langer/Winstanley, who over the past 4 decades produced iconic albums and hit singles for artists like Madness, Morrisey, Elvis Costello, Dexy&#39;s Midnight Runners, and Bush (to name only a few). Clive and Jaymee discuss the craft of music production, the origins of... <p class="more"> <a class="more-link" href="https://www.loveistheauthor.com/podcast/episode-67-clive-langer-2/">Read More</a> </p>]]></content:encoded>
+	<enclosure url="https://anchor.fm/s/2053fb2c/podcast/play/89001175/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-6-9%2F509c25c5-0ea1-b85b-8952-dcf7cb51127f.mp3" length="1" type="audio/mpeg"></enclosure>
+	<itunes:summary><![CDATA[Clive Langer is an English songwriter and producer, formerly of the cult band Deaf School, and half of the legendary UK production duo Langer/Winstanley, who over the past 4 decades produced iconic albums and hit singles for artists like Madness, Morrisey, Elvis Costello, Dexy&#39;s Midnight Runners, and Bush (to name only a few). Clive and Jaymee discuss the craft of music production, the origins of...  Read More]]></itunes:summary>
+	<itunes:image href="https://www.loveistheauthor.com/wp-content/uploads/2024/08/5323747-1698535062567-820376e5305d1-28-scaled.jpg"></itunes:image>
+	<ssp:image>
+		<ssp:url>https://www.loveistheauthor.com/wp-content/uploads/2024/08/5323747-1698535062567-820376e5305d1-28-scaled.jpg</ssp:url>
+		<ssp:title>Episode 67 &#8211; Clive Langer</ssp:title>
+	</ssp:image>
+	<itunes:explicit>false</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>0:00</itunes:duration>
+	<itunes:author><![CDATA[Jaymee Carpenter]]></itunes:author>	<googleplay:description><![CDATA[Clive Langer is an English songwriter and producer, formerly of the cult band Deaf School, and half of the legendary UK production duo Langer/Winstanley, who over the past 4 decades produced iconic albums and hit singles for artists like Madness, Morrisey, Elvis Costello, Dexy&#39;s Midnight Runners, and Bush (to name only a few). Clive and Jaymee discuss the craft of music production, the origins of...  Read More]]></googleplay:description>
+	<googleplay:image href="https://www.loveistheauthor.com/wp-content/uploads/2024/08/5323747-1698535062567-820376e5305d1-28-scaled.jpg"></googleplay:image>
+	<googleplay:explicit>No</googleplay:explicit>
+	<googleplay:block>no</googleplay:block>
+</item>
+
+<item>
+	<title>Episode 66 &#8211; The Notebooks Of Sonny Rollins</title>
+	<link>https://www.loveistheauthor.com/podcast/episode-66-the-notebooks-of-sonny-rollins-2/</link>
+	<pubDate>Tue, 02 Jul 2024 02:22:08 +0000</pubDate>
+	<dc:creator><![CDATA[Jaymee Carpenter]]></dc:creator>
+	<guid isPermaLink="false">https://lita.1000buddhas.co/podcast/episode-66-the-notebooks-of-sonny-rollins-2/</guid>
+	<description><![CDATA[Jaymee shares notes from inner child work, building a relationship with the subconscious, and his recent posthumous spiritual connection with jazz music legend Sonny Rollins via the new book The Notebooks Of Sonny Rollins by Sam V.H. Reese. The Notebooks Of Sonny Rollins: www.nyrb.com/products/the-notebooks-of-sonny-rollins LOVE IS THE AUTHOR PODCAST: produced, edited and hosted by Jaymee Carpenter.  BOOK SPIRITUAL MENTORSHIP SESSIONS w/ JAYMEE: lacee@loveistheauthor.com  INSTAGRAM: @loveistheauthor / @unconventionalgardener CONTACT: jaymee@loveistheauthor.com]]></description>
+	<itunes:subtitle><![CDATA[Jaymee shares notes from inner child work, building a relationship with the subconscious, and his recent posthumous spiritual connection with jazz music legend Sonny Rollins via the new book The Notebooks Of Sonny Rollins by Sam V.H. Reese. The Notebooks]]></itunes:subtitle>
+	<content:encoded><![CDATA[Jaymee shares notes from inner child work, building a relationship with the subconscious, and his recent posthumous spiritual connection with jazz music legend Sonny Rollins via the new book The Notebooks Of Sonny Rollins by Sam V.H. Reese. The Notebooks Of Sonny Rollins: www.nyrb.com/products/the-notebooks-of-sonny-rollins LOVE IS THE AUTHOR PODCAST: produced, edited and hosted by Jaymee Carpenter.  BOOK SPIRITUAL MENTORSHIP SESSIONS w/ JAYMEE: lacee@loveistheauthor.com  INSTAGRAM: @loveistheauthor / @unconventionalgardener CONTACT: jaymee@loveistheauthor.com]]></content:encoded>
+	<enclosure url="https://anchor.fm/s/2053fb2c/podcast/play/88568505/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-28%2Fc1c8c957-8f57-6d6e-1a79-44fe96daf4c0.mp3" length="1" type="audio/mpeg"></enclosure>
+	<itunes:summary><![CDATA[Jaymee shares notes from inner child work, building a relationship with the subconscious, and his recent posthumous spiritual connection with jazz music legend Sonny Rollins via the new book The Notebooks Of Sonny Rollins by Sam V.H. Reese. The Notebooks Of Sonny Rollins: www.nyrb.com/products/the-notebooks-of-sonny-rollins LOVE IS THE AUTHOR PODCAST: produced, edited and hosted by Jaymee Carpenter.  BOOK SPIRITUAL MENTORSHIP SESSIONS w/ JAYMEE: lacee@loveistheauthor.com  INSTAGRAM: @loveistheauthor / @unconventionalgardener CONTACT: jaymee@loveistheauthor.com]]></itunes:summary>
+	<itunes:image href="https://www.loveistheauthor.com/wp-content/uploads/2024/08/5323747-1698535062567-820376e5305d1-29-scaled.jpg"></itunes:image>
+	<ssp:image>
+		<ssp:url>https://www.loveistheauthor.com/wp-content/uploads/2024/08/5323747-1698535062567-820376e5305d1-29-scaled.jpg</ssp:url>
+		<ssp:title>Episode 66 &#8211; The Notebooks Of Sonny Rollins</ssp:title>
+	</ssp:image>
+	<itunes:explicit>false</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>0:00</itunes:duration>
+	<itunes:author><![CDATA[Jaymee Carpenter]]></itunes:author>	<googleplay:description><![CDATA[Jaymee shares notes from inner child work, building a relationship with the subconscious, and his recent posthumous spiritual connection with jazz music legend Sonny Rollins via the new book The Notebooks Of Sonny Rollins by Sam V.H. Reese. The Notebooks Of Sonny Rollins: www.nyrb.com/products/the-notebooks-of-sonny-rollins LOVE IS THE AUTHOR PODCAST: produced, edited and hosted by Jaymee Carpenter.  BOOK SPIRITUAL MENTORSHIP SESSIONS w/ JAYMEE: lacee@loveistheauthor.com  INSTAGRAM: @loveistheauthor / @unconventionalgardener CONTACT: jaymee@loveistheauthor.com]]></googleplay:description>
+	<googleplay:image href="https://www.loveistheauthor.com/wp-content/uploads/2024/08/5323747-1698535062567-820376e5305d1-29-scaled.jpg"></googleplay:image>
+	<googleplay:explicit>No</googleplay:explicit>
+	<googleplay:block>no</googleplay:block>
+</item>
+
+<item>
+	<title>Episode 65 &#8211; &#8220;JESUS CHRIST AGAIN&#8221;</title>
+	<link>https://www.loveistheauthor.com/podcast/episode-65-jesus-christ-again/</link>
+	<pubDate>Tue, 02 Jul 2024 02:06:03 +0000</pubDate>
+	<dc:creator><![CDATA[Jaymee Carpenter]]></dc:creator>
+	<guid isPermaLink="false">https://lita.1000buddhas.co/podcast/episode-65-jesus-christ-again/</guid>
+	<description><![CDATA[Jaymee and the ascended homeless master Jesus Christ return with a wildly entertaining back to back episode, bursting with hilarity and wisdom, including Jesus&#8217;s story of getting thrown out of Rajneeshpuram (Wild, Wild Country!) by Osho himself (&#8220;The Buddha was being driven in a Rolls Royce protected by an AK47!&#8221;) Plus Jesus shares his vision for America as our next US President. LOVE IS THE... <p class="more"> <a class="more-link" href="https://www.loveistheauthor.com/podcast/episode-65-jesus-christ-again/">Read More</a> </p>]]></description>
+	<itunes:subtitle><![CDATA[Jaymee and the ascended homeless master Jesus Christ return with a wildly entertaining back to back episode, bursting with hilarity and wisdom, including Jesus&#8217;s story of getting thrown out of Rajneeshpuram (Wild, Wild Country!) by Osho himself (&#]]></itunes:subtitle>
+	<content:encoded><![CDATA[Jaymee and the ascended homeless master Jesus Christ return with a wildly entertaining back to back episode, bursting with hilarity and wisdom, including Jesus&#8217;s story of getting thrown out of Rajneeshpuram (Wild, Wild Country!) by Osho himself (&#8220;The Buddha was being driven in a Rolls Royce protected by an AK47!&#8221;) Plus Jesus shares his vision for America as our next US President. LOVE IS THE... <p class="more"> <a class="more-link" href="https://www.loveistheauthor.com/podcast/episode-65-jesus-christ-again/">Read More</a> </p>]]></content:encoded>
+	<enclosure url="https://anchor.fm/s/2053fb2c/podcast/play/88245901/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-6-2%2F7a0705ba-267a-29d8-7f87-9fd599b435d5.mp3" length="1" type="audio/mpeg"></enclosure>
+	<itunes:summary><![CDATA[Jaymee and the ascended homeless master Jesus Christ return with a wildly entertaining back to back episode, bursting with hilarity and wisdom, including Jesus&#8217;s story of getting thrown out of Rajneeshpuram (Wild, Wild Country!) by Osho himself (&#8220;The Buddha was being driven in a Rolls Royce protected by an AK47!&#8221;) Plus Jesus shares his vision for America as our next US President. LOVE IS THE...  Read More]]></itunes:summary>
+	<itunes:image href="https://www.loveistheauthor.com/wp-content/uploads/2024/08/5323747-1698535062567-820376e5305d1-11-scaled.jpg"></itunes:image>
+	<ssp:image>
+		<ssp:url>https://www.loveistheauthor.com/wp-content/uploads/2024/08/5323747-1698535062567-820376e5305d1-11-scaled.jpg</ssp:url>
+		<ssp:title>Episode 65 &#8211; &#8220;JESUS CHRIST AGAIN&#8221;</ssp:title>
+	</ssp:image>
+	<itunes:explicit>false</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>0:00</itunes:duration>
+	<itunes:author><![CDATA[Jaymee Carpenter]]></itunes:author>	<googleplay:description><![CDATA[Jaymee and the ascended homeless master Jesus Christ return with a wildly entertaining back to back episode, bursting with hilarity and wisdom, including Jesus&#8217;s story of getting thrown out of Rajneeshpuram (Wild, Wild Country!) by Osho himself (&#8220;The Buddha was being driven in a Rolls Royce protected by an AK47!&#8221;) Plus Jesus shares his vision for America as our next US President. LOVE IS THE...  Read More]]></googleplay:description>
+	<googleplay:image href="https://www.loveistheauthor.com/wp-content/uploads/2024/08/5323747-1698535062567-820376e5305d1-11-scaled.jpg"></googleplay:image>
+	<googleplay:explicit>No</googleplay:explicit>
+	<googleplay:block>no</googleplay:block>
+</item>
+	</channel>
+</rss>
